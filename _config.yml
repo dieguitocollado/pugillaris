@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "Pugillaris"
-title_right   : "Renovatur die lunae" # default: ""
-description   : "Ubi possum scribere."
+title_right   : "" # default: ""
+description   : "Renovatur die lunae."
 keywords      : "pugillaris, pugillaria, lingua latina, latine"
 url           : https://pugillaris.com # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
