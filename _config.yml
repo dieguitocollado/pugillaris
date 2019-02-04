@@ -1,6 +1,6 @@
 # Site settings
 title_left    : "Pugillaris"
-title_right   : "" # default: ""
+title_right   : "Renovatur die lunae" # default: ""
 description   : "Ubi possum scribere."
 keywords      : "pugillaris, pugillaria, lingua latina, latine"
 url           : https://pugillaris.com # site url
